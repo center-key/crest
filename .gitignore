@@ -1,0 +1,9 @@
+# Canonical REST
+
+# Downloaded and Generated Files
+/node_modules/
+/package-lock.json
+/build/
+
+# Extraneous System Files
+.DS_Store
